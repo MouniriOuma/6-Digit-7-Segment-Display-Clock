@@ -19,7 +19,6 @@ The program uses multiplexing to display the time on the 6-digit 7-segment displ
 
 ## Files
 - `clock_7-seg_multiplexes_&_decodeur_7447.pdsprj`: Circuit schematic for the 6-digit 7-segment display.
-
 - `clock.c`: MikroC program for controlling the 6-digit 7-segment display clock.
 
 ## Instructions
