@@ -6,6 +6,7 @@ This project demonstrates how to control a 6-digit 7-segment display to create a
 ## Circuit
 ### 6-Digit 7-Segment Display Setup
 ![6-Digit 7-Segment Circuit](screens/screen.png)  
+
 *Circuit setup for interfacing the 6-digit 7-segment display with the microcontroller.*
 
 ## Code Explanation
